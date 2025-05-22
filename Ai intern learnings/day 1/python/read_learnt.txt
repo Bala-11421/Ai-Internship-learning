@@ -1,0 +1,16 @@
+DAY 1:
+
+-> i have learnt some python basic cocnpts but actually i know the concepts like 
+. Variables and data types 
+. Input/output functions 
+. If-else conditions 
+. Loops (for, while) 
+. Functions in Python 
+
+and also implemented that into a real time mini project called "QUIZ game".
+
+-> while working with project i have learnt that how we implement loops , functions  in  real time.
+
+
+and i am eagerly waiting for work with other hands on.
+
